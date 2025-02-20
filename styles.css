@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.outer_box{
+	border: 1px solid #000;
+    width: 300px;
+}
+.box{
+	margin: 20px;
+	border: 15px solid blue;
+}
+p{
+	height: auto;
+	padding: 50px;
+	background-color: lightblue;
+	margin: 0;
+}
