@@ -4,15 +4,9 @@
 	margin: 20px;
 	border: 15px solid blue;
 	background-color: lightblue;
-}
-.box{
-	
-	height: auto;
+	width: 300px;
 	padding: 50px;
-	background-color: lightblue;
-	margin: auto;
-    width: 300px;
 }
-p{
-	
+.box{	
+	background-color: lightblue; 
 }
