@@ -10,3 +10,6 @@
 .box{	
 	background-color: lightblue; 
 }
+p{
+	margin: 0;
+}
